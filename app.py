@@ -1,3 +1,4 @@
+# 7강 실습 주석 추가
 def greet(name):
     print(f"반갑습니다, {name}님! 환영합니다.")
 
